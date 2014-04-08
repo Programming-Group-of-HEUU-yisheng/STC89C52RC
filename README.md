@@ -1,4 +1,4 @@
-# STC80C52RC 单片机 C 源代码
+# STC89C52RC 单片机 C 源代码
 # 使用 Keil uVision 4
 
 ## 列表
