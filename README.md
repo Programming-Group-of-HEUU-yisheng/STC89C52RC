@@ -1,5 +1,5 @@
 # STC89C52RC 单片机 C 源代码
-# 使用 Keil uVision 4
+# 使用 Keil uVision 4 编译链接 使用天祥 TX-1C 开发板
 
 ## 列表
 1. 位操作——发光管点亮——1,3,5,7
