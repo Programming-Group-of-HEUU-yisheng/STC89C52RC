@@ -1,4 +1,4 @@
-// eight flashing LEDs£¬delay 100ms with beep sound
+// eight flashing LEDs   delay 100ms with beep sound
 // beep.......P2^3
 
 // two FOR control number
