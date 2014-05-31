@@ -2,3 +2,6 @@
 *~
 .gitignore~
 
+# some error output files
+.goutputstream*
+
