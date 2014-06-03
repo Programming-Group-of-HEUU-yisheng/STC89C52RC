@@ -20,4 +20,5 @@
 16. 键盘——矩阵键盘检测——组合键——一般扫描方式——具体功能从略——WIP
 17. 键盘——矩阵键盘检测——组合键——事件驱动方式——具体功能从略——WIP
 18. AD转换——外部中断——CAN NOT TEST
-19. 
+19. 串口——可变波特率——带序号——Find a better way to send and receive in ASCII range
+20. 
